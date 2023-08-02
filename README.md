@@ -7,11 +7,8 @@ The data set we worked on is based on data from patients with pulmonary embolism
 The final goal of the project was to present a clean three-dimensional scan of the rib cage. We tried to work with several different methods to reach the desired result and among them: performing a simple segmentation and using the Canny algorithm. After realizing that segmentation on a single image is not the way to reach the desired result, we switched to working with a segmentation method on volume scans. We chose the Connected Components algorithm that divides the largest areas that are connected to each other into separate components. After reaching a better result, we also made corrections to the scans using morphology.
 
 ### links
-* Before segmentation: 
-https://youtu.be/iw8pmTdwdjo
-
-* After segmentation:
-https://youtu.be/v9CzQdcz_TY
+Before segmentation: https://youtu.be/iw8pmTdwdjo
+After segmentation: https://youtu.be/v9CzQdcz_TY
 
 ## Project conclusions
 An experiment and questioning must be carried out separately for each patient in order to find the optimal number of Connected Components for him.
