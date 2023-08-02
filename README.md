@@ -8,6 +8,7 @@ The final goal of the project was to present a clean three-dimensional scan of t
 
 ### links
 Before segmentation: https://youtu.be/iw8pmTdwdjo
+
 After segmentation: https://youtu.be/v9CzQdcz_TY
 
 ## Project conclusions
